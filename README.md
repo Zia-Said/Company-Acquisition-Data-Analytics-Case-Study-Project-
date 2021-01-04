@@ -19,3 +19,5 @@ Justin who is the Chief Data Officer along with his team started auditing on the
 • Show the sales comparison between cumulative performance vs cumulative performance LY using an area chart.
 • Top 7 performers in terms of products and customers.
 • Performance in terms of regional sales and visualizing it (except bar graph).
+
+Microsoft Power BI Desktop (MPBID) was used for handling this case study.The solution which was followed in the report was a step-by-step process going along with the requirements. DAX formulas were used to calculate some important measures and columns and displayed in a variety of visuals. In addition, dashboards were developed (with bookmarks to facilitate the viewing process) in order to show the various obtained results and the created visuals. Finally, the complete report was published to Power BI Services and from there published to web.
